@@ -1,5 +1,6 @@
 image:
   file: .gitpod.Dockerfile
 
-init:
-  ls
+tasks:
+  init: ls
+
